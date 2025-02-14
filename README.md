@@ -35,5 +35,5 @@ L’achat d’une extension de garantie ne peut pas être expliqué uniquement p
  - Expérimenter avec des scénarios d’achat simulés pour réduire les biais de décision.
  - Étudier l’impact des stratégies marketing sur la perception et l’achat des garanties.
 
-📂 Fichier disponible : Résumé.pdf
+📂 Fichier disponible : Résumé.pptx
 
