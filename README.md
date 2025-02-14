@@ -1,1 +1,1 @@
-# Literature-Review-on-Extended-Warranties
+# Revue de la littérature sur les garanties prolongées
